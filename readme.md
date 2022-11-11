@@ -1,16 +1,8 @@
 # Welcome to the Anythink Market repo
 
-To start the app use Docker.
+To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
-It will start both frontend and backend, including all the relevant dependencies, and the db.
-
-you will be able to access the frontend of the application by pointing to 
-
-http://localhost:3000/api/ping
-
-after that you can create a new user on 
-
-http://localhost:3001/register
+Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
 ## Development
 
